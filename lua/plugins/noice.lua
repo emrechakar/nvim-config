@@ -46,8 +46,12 @@ return {
 		{
 			"rcarriga/nvim-notify",
 			opts = {
-				render = "minimal",
+				render = "wrapped_compact",
 				stages = "static",
+				max_width = 32,
+				fps = 240,
+				top_down = false,
+				timeout = 1000,
 			},
 		},
 	},

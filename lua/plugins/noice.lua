@@ -46,7 +46,7 @@ return {
 		{
 			"rcarriga/nvim-notify",
 			opts = {
-				render = "wrapped_compact",
+				render = "wrapped-compact",
 				stages = "static",
 				max_width = 32,
 				fps = 240,

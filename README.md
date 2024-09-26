@@ -1,1 +1,1 @@
-![editor](./images/image.png)
+![editor](./images/image2.png)

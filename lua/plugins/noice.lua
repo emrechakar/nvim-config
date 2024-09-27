@@ -6,6 +6,9 @@ return {
 			progress = {
 				enabled = false,
 			},
+			signature = {
+				enabled = false,
+			},
 		},
 		cmdline = {
 			-- view = "cmdline"
